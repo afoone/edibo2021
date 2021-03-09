@@ -4,19 +4,13 @@
       "id": 1,
       "todo": "hacer la cena",
       "author": "typicode",
-      "done": false
+      "done": true
     },
     {
       "id": 2,
       "todo": "dormir",
       "author": "alfonso",
       "done": true
-    },
-    {
-      "todo": "SFDASF",
-      "author": "",
-      "done": true,
-      "id": 6
     }
   ]
 }
