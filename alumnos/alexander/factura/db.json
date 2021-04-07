@@ -1,0 +1,46 @@
+{
+  "facturas": [
+    {
+      "id": "76bce514-eea3-418b-a2ce-bbe5e33c8f83",
+      "cliente": "sdaf",
+      "fecha": "a",
+      "importe": 0
+    },
+    {
+      "id": "2a9b649d-3c64-4adf-aaba-fd7e0e627d83",
+      "cliente": "sdaf",
+      "fecha": "a",
+      "importe": 0
+    },
+    {
+      "id": "efbd0806-ab17-42b3-bc95-f0687dcc57bb",
+      "cliente": "sdaf",
+      "fecha": "a",
+      "importe": 0
+    },
+    {
+      "id": "d0454a01-d638-4353-9cf6-50560b94c17c",
+      "cliente": "sdaf",
+      "fecha": "a",
+      "importe": 0
+    },
+    {
+      "id": "97cfe3aa-dd09-4003-a7bb-7937ed9f624c",
+      "cliente": "sdaf",
+      "fecha": "a",
+      "importe": 0
+    },
+    {
+      "id": "05239d0f-ed3e-4b2d-906b-59c2165efc07",
+      "cliente": "dfd",
+      "fecha": "",
+      "importe": 0
+    },
+    {
+      "id": "92db395c-c343-4035-80cb-e277ae530c13",
+      "cliente": "dfd",
+      "fecha": "",
+      "importe": 0
+    }
+  ]
+}
