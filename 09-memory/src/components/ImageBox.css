@@ -1,0 +1,11 @@
+.image-box {
+    height: 100px;
+    width: 180px;
+    background-color: brown;
+    margin-top: 1rem;
+}
+
+.image-box img {
+    height: 100px;
+    width: 180px;
+}
